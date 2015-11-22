@@ -1,0 +1,195 @@
+#********** START OF renumber-sheet.ulp ULP Version 4.4.3 22-11-2015 :15:38:16 LOG **********#
+#OldRef				SheetNumber	NewRef
+CH/CS				1	CH/CS135
+CSS/CSH				1	CSS/CSH135
+DH/DS				1	DH/DS135
+JTAG				1	JTAG135
+LIPO_BAT				1	LIPO_BAT135
+POWER				1	POWER135
+RECOVERY				1	RECOVERY135
+RESET				1	RESET135
+SD				1	SD135
+SJTAG_PSW				1	SJTAG_PSW135
+UEXT				1	UEXT135
+USB_CON				1	USB_CON135
+USB_HOST				1	USB_HOST135
+U_DEBUG				1	U_DEBUG135
+#********** END OF renumber-sheet.ulp ULP Version 4.4.3 22-11-2015 :15:38:16 LOG **********#
+
+#********** START OF fix_via_hack.ulp ULP Version 4.5.0 22-11-2015 :15:38:53 LOG **********#
+TRACK	WireCount=1		Net=GND				start(X=60769.500000 Y=17526.000000)	end(X=60452.000000 Y=17843.500000 )
+TRACK	WireCount=2		Net=GND				start(X=60452.000000 Y=17843.500000)	end(X=59436.000000 Y=17843.500000 )
+TRACK	WireCount=3		Net=GND				start(X=59436.000000 Y=17843.500000)	end(X=59118.500000 Y=17526.000000 )
+TRACK	WireCount=4		Net=GND				start(X=61595.000000 Y=17526.000000)	end(X=61722.000000 Y=17653.000000 )
+TRACK	WireCount=5		Net=GND				start(X=60769.500000 Y=17526.000000)	end(X=61595.000000 Y=17526.000000 )
+VIA	ViaCount=1		Net=GND				(X=71755.000000 Y=13335.000000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=2		Net=GND				(X=12700.000000 Y=18415.000000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=3		Net=GND				(X=15240.000000 Y=18415.000000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=4		Net=GND				(X=17780.000000 Y=18415.000000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=5		Net=GND				(X=20320.000000 Y=18415.000000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=6		Net=GND				(X=22860.000000 Y=18415.000000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=7		Net=GND				(X=58420.000000 Y=1905.000000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=8		Net=GND				(X=60960.000000 Y=1905.000000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=9		Net=GND				(X=61722.000000 Y=17653.000000)	LayerStart=1	LayerEnd=16
+PADFILL	PadCount=9		Net=GND				(X=38354.000000 Y=889.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=11		Net=GND				(X=36449.000000 Y=19431.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=13		Net=GND				(X=44450.000000 Y=1524.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=15		Net=GND				(X=41656.000000 Y=19431.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=17		Net=GND				(X=56134.000000 Y=6858.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=19		Net=GND				(X=55372.000000 Y=8763.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=21		Net=GND				(X=55118.000000 Y=12065.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=23		Net=GND				(X=32766.000000 Y=11938.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=25		Net=GND				(X=30734.000000 Y=17145.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=27		Net=GND				(X=30734.000000 Y=15367.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=29		Net=GND				(X=32766.000000 Y=13462.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=31		Net=GND				(X=32893.000000 Y=14668.500000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=33		Net=GND				(X=36449.000000 Y=17907.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=35		Net=GND				(X=34163.000000 Y=17272.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=37		Net=GND				(X=26797.000000 Y=17145.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=39		Net=GND				(X=29527.500000 Y=16764.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=41		Net=GND				(X=28321.000000 Y=17145.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=43		Net=GND				(X=55880.000000 Y=3048.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=45		Net=GND				(X=43243.500000 Y=2019.300000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=47		Net=GND				(X=33528.000000 Y=3048.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=49		Net=GND				(X=52451.000000 Y=3048.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=51		Net=GND				(X=48133.000000 Y=3048.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=53		Net=GND				(X=46736.000000 Y=3048.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=55		Net=GND				(X=49784.000000 Y=18161.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=57		Net=GND				(X=53721.000000 Y=17272.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=59		Net=GND				(X=31496.000000 Y=13716.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=61		Net=GND				(X=32702.500000 Y=13335.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=65		Net=GND				(X=32512.000000 Y=8636.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=67		Net=GND				(X=43688.000000 Y=18161.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=69		Net=GND				(X=30988.000000 Y=8636.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=71		Net=GND				(X=29972.000000 Y=13716.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=73		Net=GND				(X=28448.000000 Y=13716.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=75		Net=GND				(X=29464.000000 Y=8636.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=77		Net=GND				(X=31623.000000 Y=7429.500000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=79		Net=GND				(X=30988.000000 Y=4699.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=81		Net=GND				(X=30988.000000 Y=6223.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=83		Net=GND				(X=32639.000000 Y=10731.500000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=85		Net=GND				(X=32766.000000 Y=9525.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=87		Net=GND				(X=21209.000000 Y=5080.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=89		Net=GND				(X=19304.000000 Y=5080.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=92		Net=GND				(X=57404.000000 Y=6350.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=94		Net=GND				(X=72009.000000 Y=5969.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=96		Net=GND				(X=19431.000000 Y=10033.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=98		Net=GND				(X=19177.000000 Y=9627.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=100		Net=GND				(X=64389.000000 Y=10795.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=102		Net=GND				(X=25019.000000 Y=6223.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=104		Net=GND				(X=26924.000000 Y=13716.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=106		Net=GND				(X=25273.000000 Y=17145.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=108		Net=GND				(X=23749.000000 Y=17145.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=110		Net=GND				(X=68072.000000 Y=3048.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=112		Net=GND				(X=69596.000000 Y=3048.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=172		Net=GND				(X=22334.000000 Y=10668.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=191		Net=GND				(X=65278.000000 Y=16637.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=201		Net=GND				(X=21209.000000 Y=4699.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=211		Net=GND				(X=43688.000000 Y=19431.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=213		Net=GND				(X=64008.000000 Y=8382.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=216		Net=GND				(X=15875.000000 Y=8890.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=234		Net=GND				(X=23241.000000 Y=4699.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=239		Net=GND				(X=64262.000000 Y=3429.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=241		Net=GND				(X=62865.000000 Y=10795.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=245		Net=GND				(X=66167.000000 Y=3175.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=260		Net=GND				(X=32334.200000 Y=3683.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=262		Net=GND				(X=32334.200000 Y=4572.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=264		Net=GND				(X=32334.200000 Y=5334.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=266		Net=GND				(X=32334.200000 Y=6223.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=267		Net=GND				(X=14859.000000 Y=5461.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=280		Net=GND				(X=4548.000000 Y=6590.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=289		Net=GND				(X=28913.000000 Y=4760.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=291		Net=GND				(X=26713.000000 Y=8189.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=292		Net=GND				(X=26713.000000 Y=6289.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=305		Net=GND				(X=51600.000000 Y=4235.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=311		Net=GND				(X=47700.000000 Y=4235.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=333		Net=GND				(X=34050.000000 Y=16085.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=347		Net=GND				(X=43150.000000 Y=16085.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=351		Net=GND				(X=45750.000000 Y=16085.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=357		Net=GND				(X=49650.000000 Y=16085.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=363		Net=GND				(X=53550.000000 Y=16085.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=365		Net=GND				(X=54850.000000 Y=16085.000000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=395		Net=GND				(X=49850.000000 Y=2410.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=400		Net=GND				(X=52200.000000 Y=4760.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=463		Net=GND				(X=36700.000000 Y=15960.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=470		Net=GND				(X=36700.000000 Y=13160.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=477		Net=GND				(X=36700.000000 Y=10360.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=483		Net=GND				(X=36700.000000 Y=7960.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=495		Net=GND				(X=63627.000000 Y=4922.900000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=500		Net=GND				(X=4876.000000 Y=5080.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=526		Net=GND				(X=22606.000000 Y=13177.900000)	LayerStart=16	LayerEnd=16
+#********** END OF fix_via_hack.ulp ULP Version 4.5.0 22-11-2015 :15:38:53 LOG **********#
+
+#********** START OF eagle6xx-sch-to-kicad-sch.ulp 1.7 22-11-2015 :15:39:09 LOG **********#
+Package Name Conflict: Package=WU02S from Internal SCH lib=Penko  With Package=WU02S from LIB=gogo
+Package Name Conflict: Package=WU02S from Internal SCH lib=gogo  With Package=WU02S from LIB=Penko
+#********** END OF eagle6xx-sch-to-kicad-sch.ulp 1.7 22-11-2015 :15:39:09 LOG **********#
+
+#********** START OF exp-lbrs.ulp 6.6 22-11-2015 :15:39:18 LOG **********#
+WARNING: Over lapping Pin(s) on SYMBOL:USB-4_SHIELD
+   Pin =6
+ERROR: package name:OLIMEX_DISCRET_0805_0R  Has Bad/illegal charter in it's package Alisa name!
+
+   Package Alaise  Name:(NA)
+   Error Postion & Char:(  )
+   Bad charter(s) have been replaced with  '_'  This MAY FIX OR, CAUSE MORE ERROR'S! Plese fix the Alias!
+
+ERROR: package name:OLIMEX_DISCRET_0603_0R  Has Bad/illegal charter in it's package Alisa name!
+
+   Package Alaise  Name:0R(NA)
+   Error Postion & Char:  (  )
+   Bad charter(s) have been replaced with  '_'  This MAY FIX OR, CAUSE MORE ERROR'S! Plese fix the Alias!
+
+ERROR: package name:Penko_DG306-5.0_2P  Has Bad/illegal charter in it's package Alisa name!
+
+   Package Alaise  Name:-DG306-5.0_2P(TB2-5MM)
+   Error Postion & Char:             (       )
+   Bad charter(s) have been replaced with  '_'  This MAY FIX OR, CAUSE MORE ERROR'S! Plese fix the Alias!
+
+ERROR: package name:Penko_DG350-3.5_2P  Has Bad/illegal charter in it's package Alisa name!
+
+   Package Alaise  Name:-DG350-3.5_2P(TB2-3.5MM)
+   Error Postion & Char:             (         )
+   Bad charter(s) have been replaced with  '_'  This MAY FIX OR, CAUSE MORE ERROR'S! Plese fix the Alias!
+
+ERROR: package name:Penko_HN1X4(SMD)  Has Bad/illegal charter in it's package Alisa name!
+
+   Package Alaise  Name:-HN1X4(SMD)
+   Error Postion & Char:      (   )
+   Bad charter(s) have been replaced with  '_'  This MAY FIX OR, CAUSE MORE ERROR'S! Plese fix the Alias!
+
+ERROR: package name:con-harting-ml_ML10-FEMALE(IDC10S/PCB)  Has Bad/illegal charter in it's package Alisa name!
+
+   Package Alaise  Name:ML10-FEMALE(IDC10S/PCB)
+   Error Postion & Char:           (          )
+   Bad charter(s) have been replaced with  '_'  This MAY FIX OR, CAUSE MORE ERROR'S! Plese fix the Alias!
+
+ERROR: package name:gogo_SOD-123  Has Bad/illegal charter in it's package Alisa name!
+
+   Package Alaise  Name:-1N5819(S4SOD-123)
+   Error Postion & Char:       (         )
+   Bad charter(s) have been replaced with  '_'  This MAY FIX OR, CAUSE MORE ERROR'S! Plese fix the Alias!
+
+ERROR: package name:gogo_SW_TAKT3X4  Has Bad/illegal charter in it's package Alisa name!
+
+   Package Alaise  Name:SIDE_WTCM-TR(3X4)
+   Error Postion & Char:            (   )
+   Bad charter(s) have been replaced with  '_'  This MAY FIX OR, CAUSE MORE ERROR'S! Plese fix the Alias!
+
+ERROR: package name:gogo_WS-TAKT_6X3.5_SMD_NOCREAM  Has Bad/illegal charter in it's package Alisa name!
+
+   Package Alaise  Name:T1107A(6X3,8X2,5MM)
+   Error Postion & Char:      (           )
+   Bad charter(s) have been replaced with  '_'  This MAY FIX OR, CAUSE MORE ERROR'S! Plese fix the Alias!
+
+    Conversion completed with no Messages
+#********** END OF exp-lbrs.ulp 6.6 22-11-2015 :15:39:18 LOG **********#
+
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 1.8 22-11-2015 :15:39:53 LOG **********#
+Missing Prefix Part =''				SPARKFUNEAGLE-6-6-07_FIDUCIAL-1X3					iMX233-OLinuXino-NANO_Rev_B		M
+Missing Prefix Part =1.5X3				SPARKFUNEAGLE-6-6-07_FIDUCIAL-1.5X3					iMX233-OLinuXino-NANO_Rev_B		M
+Missing Prefix Part =1X2				SPARKFUNEAGLE-6-6-07_FIDUCIAL-1X2					iMX233-OLinuXino-NANO_Rev_B		M
+Missing Prefix Part =1X2.5				SPARKFUNEAGLE-6-6-07_FIDUCIAL-1X2.5					iMX233-OLinuXino-NANO_Rev_B		M
+#********** END OF eagle-lbr2kicad-1.0.ulp 1.8 22-11-2015 :15:39:53 LOG **********#
+
