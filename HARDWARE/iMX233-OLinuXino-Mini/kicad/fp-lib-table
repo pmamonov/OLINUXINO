@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "iMX233-OLINUXINO-MINI_Rev_C")(type Legacy)(uri "/home/piton/devel/OLINUXINO/HARDWARE/iMX233-OLinuXino-Mini/kicad/iMX233-OLINUXINO-MINI_Rev_C.mod")(options "")(descr ""))
+)
